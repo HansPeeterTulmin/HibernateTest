@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="dataSourceStorageLocal">
-    <data-source name="hibernate.cfg.xml" uuid="ad0a781e-5d5f-43b0-ad04-7dfcde0a1616">
-      <user-name>postgres</user-name>
-      <user-password>dfc1dfcbdfc6dfcbdfc7dfcfdfcfdfd9</user-password>
-    </data-source>
-  </component>
-</project>
