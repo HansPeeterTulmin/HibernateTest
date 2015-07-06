@@ -1,0 +1,6 @@
+"PostgreSQL 9.3.5, compiled by Visual C++ build 1600, 64-bit"
+
+INSERT INTO footable VALUES ('a', 1, 'b');
+INSERT INTO footable VALUES ('a', 2, 'hans');
+INSERT INTO footable VALUES ('b', 1, 'hans');
+SELECT * from footable;
