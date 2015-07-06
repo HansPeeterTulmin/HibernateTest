@@ -8,7 +8,7 @@
         <properties>
 
             <property name="hibernate.connection.driver_class" value="org.postgresql.Driver"/>
-            <property name="hibernate.connection.password" value="kalamees"/>
+            <property name="hibernate.connection.password" value="test"/>
             <property name="hibernate.connection.url" value="jdbc:postgresql://localhost/testdb"/>
             <property name="hibernate.connection.username" value ="postgres"/>
             <property name="hibernate.dialect" value="org.hibernate.dialect.PostgreSQL9Dialect"/>
